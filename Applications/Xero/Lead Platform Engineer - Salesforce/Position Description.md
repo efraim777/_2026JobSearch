@@ -1,5 +1,13 @@
 # Lead Platform Engineer - Salesforce
 
+## Summary
+Xero's Salesforce platform powers our go-to-market solutions and increasingly serves as the core infrastructure for our agents. You'll own the technical direction for how our platform is secured, released and operated, spending roughly half your time in hands-on engineering work: code, code reviews, design reviews, incident response and proofs of concept.
+
+Your impact is measured in leverage. Today the platform runs 99.95% uptime, 100% path-to-production compliance, zero Sev 1 and Sev 2 incidents, and 150–200 deployments monthly. You'll maintain that bar whilst scaling significantly.
+
+This role lets you Go Bold by challenging how the platform is built, Go Fast by removing friction to production, Go Further by building things that last, and Go Together by lifting capability across every pod that depends on you.
+
+
 ## The role and its impact
 
 As a Platform Lead Engineer at Xero, you will partner with the Engineering Manager to set the technical vision for our Salesforce platform, then translate that vision into a clear, sequenced action plan. You'll own both the strategy and execution; setting direction in ambiguity and then delivering the plan to make it real. Your impact is measured less by features shipped and more by the leverage you create: how much safer, faster, and more reliable you make the teams that build on top of you.
