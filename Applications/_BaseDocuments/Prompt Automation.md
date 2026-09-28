@@ -1,0 +1,1 @@
+I want a cover letter for the position description highlighting more than 13 years experience in energy sector between Origin and Jemena, Test Automation lead and process optimisation in release pipeline. Exposure with hands on to Power Automate and Dataverse as well. The letter must be concise and sharp and must showcase abilities in mentoring and coaching engineering teams
