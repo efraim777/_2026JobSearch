@@ -2,7 +2,7 @@
 ## Recruitment Information
 
 - Company: Trideca
-- Recruiter's Name:
+- Recruiter's Name: Karunya Bhat - 0452155992
 
 ## About the opportunity
 
